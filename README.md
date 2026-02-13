@@ -1,4 +1,3 @@
-````md
 # Stock Price Forecasting for Apollo Tyres Ltd. (Time Series)
 
 This project analyzes historical stock price data and performs time series forecasting using classical methods.
