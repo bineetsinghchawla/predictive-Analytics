@@ -23,8 +23,6 @@ This project analyzes historical stock price data and performs time series forec
 ```bash
 pip install -r requirements.txt
 
-```bash
-pip install -r requirements.txt
 Start Jupyter
 
 jupyter notebook
@@ -33,16 +31,4 @@ Open and run
 apollo_stock_forecasting.ipynb
 
 Notes
-Keep CIA_3.csv in the same folder as the notebook (repo root), otherwise the notebook file path will break.
-
-Start Jupyter
-
-jupyter notebook
-
-Open and run
-
-apollo_stock_forecasting.ipynb
-
-Notes
-
 Keep CIA_3.csv in the same folder as the notebook (repo root), otherwise the notebook file path will break.
