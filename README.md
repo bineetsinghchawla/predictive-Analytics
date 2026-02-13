@@ -22,11 +22,11 @@ This project analyzes historical stock price data and performs time series forec
 1) Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 Start Jupyter
 ```bash
 jupyter notebook
-
+```
 Open and run
 apollo_stock_forecasting.ipynb
 
