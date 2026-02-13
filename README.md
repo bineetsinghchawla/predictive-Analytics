@@ -1,6 +1,3 @@
-Your README is currently one long line and includes ::contentReference... at the end.
-Replace the entire README with this:
-
 # Stock Price Forecasting for Apollo Tyres Ltd. (Time Series)
 
 
